@@ -32,11 +32,5 @@
 
 ---
 
-## ✨ Objetivos
-
-Estou em busca de oportunidades para aplicar meus conhecimentos em **projetos reais**, participar de **desafios de código**, conquistar um **estágio na área de desenvolvimento** e evoluir cada vez mais na carreira tech. 💪💕
-
----
-
 > _"Nenhum sonho é grande demais quando você tem coragem, determinação e código para aprender."_ 💻✨
 
