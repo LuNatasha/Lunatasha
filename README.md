@@ -1,4 +1,4 @@
-# 🌸 Olá, seja bem-vindo(a) ao meu perfil!
+Olá, seja bem-vindo(a) 
 
 ✨ Meu nome é Luiza e sou apaixonada por tecnologia, desenvolvimento e aprender coisas novas todos os dias!  
 💻 Atualmente curso **Sistemas de Informação** no **Centro Universitário Fametro** e sou formada como **Técnica em Informática** pelo ensino médio integrado pela **Fundação Matias Machline**.
